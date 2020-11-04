@@ -2,14 +2,14 @@
 
 **In Windows 10**
 
-Open Command Prompt 
-Type python passwordChecker.py
+1. Open Command Prompt 
+2. Type python passwordChecker.py
 
 **In Linux or Other OS**
 
-Open Terminal 
-Type python3 passwordChecker.py
+1. Open Terminal 
+2. Type python3 passwordChecker.py
 
 OR 
 
-python passwordChecker.py
+1. python passwordChecker.py
